@@ -5,3 +5,8 @@ Luis Sequera tiene 32 años y nació en Venezuela, actualmente está en Perú.
 Hoy hablaremos de su historia.
 
 Él tiene exactamente un mes aprendiendo en Platzi.
+
+//Esto sirve para cuando hacemos "commit" sin colocarle un texto o comentario de los cambios realizados en el archivo a actualizar en GIT.
+Ctrl + o
+Enter
+Ctrl + x
